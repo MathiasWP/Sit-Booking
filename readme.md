@@ -1,4 +1,4 @@
-# Workout booking for lazy people
+# ✨ Workout booking for lazy people
 
 tldr; this project contains 2 different ways to book training on sits websites: 1 via their original website with Feide login (slow) and one on their ibooking website with a sit user (fast).
 
@@ -18,7 +18,6 @@ Expected values in .env file:
 **To book via SIT's original website via Feide (slow):**
 ```
 python3 sit-feide.py
-
 ```
 
 **To book via SIT's ibooking website via SIT (fast):**

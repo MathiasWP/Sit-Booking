@@ -22,7 +22,6 @@ driver.get(ibooking_login_url)
 def querySelector(query):
     return driver.find_element_by_css_selector(query)
 
-
 username_input = querySelector("#username")
 username_input.send_keys(telephone)
 
